@@ -48,9 +48,13 @@ Create a `Dockerfile` that will run the Python application in a container.
 
 ## Continuous integration
 
-Create a continuous integration plan and configuration to run Python tests and test your containerization.
+Create a continuous integration/depployment plan and configuration to run Python tests and test your containerization.
 
 ## Document
 
+<<<<<<< HEAD
 Make sure to document how the project works and how a colleague would get up to speed in the `README.md` and add relevant coments. Feel free to alter the `README.md` in anyway you want.
 >>>>>>> c34da8c (Filling out exercise a bit.)
+=======
+Make sure to document how the project works and how a colleague would get up to speed in the `README.md` and add relevant coments. Entries with "TODO" in them are encouraged to be updated. Feel free to alter the `README.md` in anyway you want.
+>>>>>>> 7fd9543 (updates)
