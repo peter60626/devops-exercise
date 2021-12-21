@@ -16,6 +16,7 @@ This exercise provides a "thing" REST API.
 ## Install
 
 - Install with [poetry](https://python-poetry.org/)
+<<<<<<< HEAD
 
 ## Development
 
@@ -77,6 +78,8 @@ This exercise provides a "thing" REST API.
 ## Install
 
 - Install with `requirements.txt`
+=======
+>>>>>>> e5cc462 (2021 updataes)
 
 ## Development
 
