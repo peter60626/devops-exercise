@@ -21,7 +21,34 @@ This exercise provides a "thing" REST API.
 
 ## Deployment
 
+<<<<<<< HEAD
 TODO
+=======
+Docker file provided so first we build image with these instructions
+and run docker image with exposed port 5000 to host machine
+
+```local sh
+git clone Voteshield/devops-exercise.git
+cd devops-exercise
+docker build -t devops-excercise .
+docker run -p 5000:5000 -it devops-excercise
+```
+
+Or, run docker-compose file and get same result
+
+```local sh
+git clone https://github.com/devsnack/devops-exercise.git
+cd devops-exercise
+docker-compose up
+```
+
+code just format import
+
+```local sh
+To improve code maybe we add routes as links to home page
+
+```
+>>>>>>> 001c291 (improved)
 
 ## Testing
 
