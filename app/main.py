@@ -2,19 +2,32 @@
 # coding=utf-8
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 from flask import Flask
 from flask import make_response
 
 import os
 import json
 =======
+=======
+>>>>>>> 595c7d0 (improved)
 import os
 import json
 from flask import Flask
 
 from flask import make_response
 
+<<<<<<< HEAD
 >>>>>>> 001c291 (improved)
+=======
+=======
+from flask import Flask
+from flask import make_response
+
+import os
+import json
+>>>>>>> c34da8c (Filling out exercise a bit.)
+>>>>>>> 595c7d0 (improved)
 from werkzeug.exceptions import NotFound
 
 file_dirname = os.path.dirname(os.path.realpath(__file__))
@@ -60,5 +73,8 @@ def pretty_json(arg):
 
 
 if __name__ == "__main__":
+<<<<<<< HEAD
     print("starting server...")
+=======
+>>>>>>> c34da8c (Filling out exercise a bit.)
     app.run(port=5000)
