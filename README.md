@@ -1,5 +1,6 @@
 # DevOps Exercise
 
+<<<<<<< HEAD
 This project is meant to test skills for the VoteShield DevOps Engineer role. What it does is not that important.
 
 See [./INSTRUCTIONS.md](./INSTRUCTIONS.md) to get started.
@@ -57,3 +58,18 @@ To improve code maybe we add routes as links to home page
 ## Credits
 
 - Inspiration from [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises)
+=======
+This project is meant to test skills for the VoteShield DevOps Engineer role.  What it does is not that important.
+
+See [./INSTRUCTIONS.md](./INSTRUCTIONS.md) to get started.
+
+## Install
+
+## Deployment
+
+## Testing
+
+## Credits
+
+* Inspiration from [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises)
+>>>>>>> 0b508df (Starting basic notes.)

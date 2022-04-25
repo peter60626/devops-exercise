@@ -1,6 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 *notes to fill-in*
 =======
+=======
+>>>>>>> 9059305 (merging files.)
 #Notes and improvements
 
 - in general Persistent Data with docker volumes to don't lose data when stopping container if any additional crud operation API
@@ -17,4 +20,10 @@
  https://circleci.com/blog/build-cicd-piplines-using-docker/
 
  also attached to the email is a CI/CD webhook documentation that I refered to.
+<<<<<<< HEAD
 >>>>>>> 001c291 (improved)
+=======
+=======
+*notes to fill-in*
+>>>>>>> 0b508df (Starting basic notes.)
+>>>>>>> 9059305 (merging files.)
