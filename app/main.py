@@ -74,7 +74,11 @@ def pretty_json(arg):
 
 if __name__ == "__main__":
 <<<<<<< HEAD
+<<<<<<< HEAD
     print("starting server...")
 =======
 >>>>>>> c34da8c (Filling out exercise a bit.)
+=======
+    print("starting server...")
+>>>>>>> f21528a (added message.)
     app.run(port=5000)
