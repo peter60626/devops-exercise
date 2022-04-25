@@ -15,6 +15,7 @@ This exercise is to meant to test your DevOps skill and problem-solving skills. 
 - Fork or clone this repository.
 - Please make sure you are committing your work.
 <<<<<<< HEAD
+<<<<<<< HEAD
 - Submit your work as an archive of the project directory including the Git information.
 - If you cannot finish or do all the things you would like to do in the suggested time, please note things you would like to do in the `README.md` or `NOTES.md` file.
 - There may be areas of the code that could be improved. You can choose to do more to demonstrate your talents, but please do not exceed the 60 minute time limit.
@@ -38,6 +39,9 @@ Make sure to document how the project works and how a colleague would get up to 
 - If you cannot finish or do all the things you would like to do in the suggested time, please note things you would like to do in the README.md or NOTES.md file.
 >>>>>>> 0b508df (Starting basic notes.)
 =======
+=======
+- Submit your work as an archive of the project directory including the Git information.
+>>>>>>> 37abc0d (Update INSTRUCTIONS.md)
 - If you cannot finish or do all the things you would like to do in the suggested time, please note things you would like to do in the `README.md` or `NOTES.md` file.
 
 ## Containerization
